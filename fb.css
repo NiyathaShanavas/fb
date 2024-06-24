@@ -1,0 +1,100 @@
+.container{
+    background: #fff;
+    
+    color: #0866ff;
+    direction: ltr;
+    line-height: 1.34;
+    margin-left: 263px;
+   
+    font-weight: bold;
+    font-size:xx-large;
+    background-color: #f0f2f5;
+}
+.text{
+    color: black;
+    font-size:x-large;
+    font-weight:lighter;
+    margin-bottom: 170px;
+    margin-top: -3cqi;
+    margin-left: 270px;
+    background-color: #f0f2f5;
+   
+}
+.page{
+    background-color: #f0f2f5;
+    width: 2000px;
+    height:700px;
+    margin-top: -50px;
+}
+.login{
+    width: 399px;
+    align-items: center;
+    height: 350px;
+    background-color: #fff;
+    margin-left: 850px;
+    margin-top: -330px;
+    border-radius: 10px;
+}
+.textin input{
+
+   
+    margin-left: 28px;
+    background-color: transparent;
+    width : 350px;
+    height: 43px;
+    border-radius: 10px;
+    margin-top: 15px;
+    border-color:rgb(196, 200, 200);
+    color:rgb(156, 146, 146)
+}
+
+
+input,
+input::placeholder {
+    font: 1.25rem/3 sans-serif;
+}   
+.loginbutton button{
+    background-color:#0866ff;
+    margin-left:28px;
+    border-radius: 10px;
+    color: #fff;
+    border-color: #0866ff;
+    width: 345px;
+    height: 45px;
+    margin-top: 15px;
+}
+
+button{
+    background-color: transparent;
+}
+.forget button{
+    margin-left: 100px;
+    color: #0866ff;
+    border-color: #fff;
+    margin-top: 14px;
+
+}
+.new button{
+    background-color:#2fa50e;
+    margin-left:78px;
+    border-radius: 10px;
+    color: #fff;
+    border-color: #36ba12;
+    width: 245px;
+    height: 48px;
+    margin-top: 20px;
+    
+}
+button,
+button  ::placeholder{
+    font: 1.25rem/3 sans-serif;
+}
+.footer{
+    width: 2001px;
+    color: gray;
+    margin-left: 350px;
+    height: 360px;
+    background-color:white
+    
+    
+}
